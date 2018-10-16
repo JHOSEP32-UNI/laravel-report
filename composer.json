@@ -16,13 +16,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Jhosep32\\ReportGenerator\\": "src/"
+            "Jimmyjs\\ReportGenerator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Jhosep32\\ReportGenerator\\ServiceProvider"
+                "Jimmyjs\\ReportGenerator\\ServiceProvider"
             ]
         }
     },
