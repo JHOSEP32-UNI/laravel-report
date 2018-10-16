@@ -1,5 +1,5 @@
 {
-    "name": "Jhosep32/laravel-report",
+    "name": "jhosep32/laravel-report",
     "description": "Rapidly Generate Simple Pdf & Excel Report on Laravel 5 (Using Barryvdh/DomPdf or Barryvdh/laravel-snappy & maatwebsite/excel)",
     "keywords": ["laravel", "excel", "pdf", "report", "excel report", "pdf report"],
     "license": "MIT",
